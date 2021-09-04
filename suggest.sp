@@ -6,7 +6,7 @@ public Plugin myinfo =
 {
 	name = "!suggest",
 	author = "rtldg",
-	description = "!suggest to log to file",
+	description = "!suggest messages to logs/suggest.log",
 	version = "1.0.0",
 	url = "https://github.com/rtldg/sm_suggest"
 }
